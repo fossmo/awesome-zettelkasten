@@ -13,6 +13,7 @@ In this section you will find articles and blogs about the zettelkasten method.
 
 - [Zettelkasten — How One German Scholar Was So Freakishly Productive](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
 - [Zettelkasten — Wikipedia](https://en.wikipedia.org/wiki/Zettelkasten)
+- [Zettelkasten for remote distributed teams](https://www.taskade.com/blog/build-a-second-brain-remote-distributed-teams)
 
 ## Books
 
@@ -42,7 +43,9 @@ Software to use with the Zettelkasten method.
 
 ## Videos
 
-- [Knowledge Management by Mukul Khanna (Youtube)](https://www.youtube.com/playlist?list=PLKsk3K4Z-1AVy4Tt-5uTMPCXn7DFQzJ_P)
+- [Knowledge Management by Mukul Khanna (YouTube)](https://www.youtube.com/playlist?list=PLKsk3K4Z-1AVy4Tt-5uTMPCXn7DFQzJ_P)
+- [Zettelkasten Learning Method: Simply Explained (YouTube)](https://www.youtube.com/watch?v=rOSZOCoqOo8)
+- [How to Use Roam Research: A Complete Guide](https://www.youtube.com/watch?v=rYsghmH5Fno&list=PLralmZwl_8jJuJMIebWFqm6K5I20a5Qve)
 
 ## Contribute
 
