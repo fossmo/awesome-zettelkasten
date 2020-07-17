@@ -28,7 +28,8 @@ Software to use with the Zettelkasten method.
 - [Obsidian - Desktop MAC](https://obsidian.md) 
 - [NvUltra - Desktop MAC](https://nvultra.com) 
 - [Sublime plugin](https://github.com/renerocksai/sublime_zk)
-- [Neuron (CLI)](https://neuron.zettel.page/)
+- [Neuron (CLI)](https://neuron.zettel.page)
+- [Cerveau (Web interface for Neuron)](https://beta.cerveau.app)
 
 ## Groups
 
