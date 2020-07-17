@@ -4,8 +4,13 @@
 
 ## Contents
 
-- [Articles](#articles)
+- [Articles](#articles/blogs)
+- [Books](#books)
+- [Software](#software)
+- [Groups](#groups)
 - [Podcasts](#podcasts)
+- [Videos](#videos)
+- [Contribute](#contribute)
 
 ## Articles/Blogs
 
