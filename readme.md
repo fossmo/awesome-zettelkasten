@@ -16,6 +16,7 @@
 
 In this section you will find articles and blogs about the zettelkasten method.
 
+- [Example of how a digital zettelkasten can look like](https://notes.andymatuschak.org/Zettelkasten)
 - [Zettelkasten — How One German Scholar Was So Freakishly Productive](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
 - [Zettelkasten — Wikipedia](https://en.wikipedia.org/wiki/Zettelkasten)
 - [Zettelkasten for remote distributed teams](https://www.taskade.com/blog/build-a-second-brain-remote-distributed-teams)
@@ -36,6 +37,7 @@ Software to use with the Zettelkasten method.
 - [Sublime plugin](https://github.com/renerocksai/sublime_zk)
 - [Neuron (CLI)](https://neuron.zettel.page)
 - [Cerveau (Web interface for Neuron)](https://beta.cerveau.app)
+- [Amplenote](https://www.amplenote.com)
 
 ## Groups
 
