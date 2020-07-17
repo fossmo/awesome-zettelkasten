@@ -28,6 +28,7 @@ Software to use with the Zettelkasten method.
 - [Obsidian - Desktop MAC](https://obsidian.md) 
 - [NvUltra - Desktop MAC](https://nvultra.com) 
 - [Sublime plugin](https://github.com/renerocksai/sublime_zk)
+- [Neuron (CLI)](https://neuron.zettel.page/)
 
 ## Groups
 
@@ -37,9 +38,6 @@ Software to use with the Zettelkasten method.
 
 - [How to Take Smart Notes with Sönke Ahrens](https://www.blokeology.io/2018/10/19/smart-notes-sonke-ahrens)
 - [Zettelkasten, Meaningless Rituals and Self-Control](https://thecultures.libsyn.com/270-zettelkasten-meaningless-rituals-and-self-control)
-
-
-## Videos
 
 
 ## Contribute
