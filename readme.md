@@ -47,7 +47,7 @@ Software to use with the Zettelkasten method.
 
 - [How to Take Smart Notes with Sönke Ahrens](https://www.blokeology.io/2018/10/19/smart-notes-sonke-ahrens)
 - [Zettelkasten, Meaningless Rituals and Self-Control](https://thecultures.libsyn.com/270-zettelkasten-meaningless-rituals-and-self-control)
-
+- [Podcast with Sonke Ahren](https://www.findinggeniuspodcast.com/podcasts/duly-noted-dr-sonke-ahrens-author-how-to-take-smart-notes-finding-efficiency-in-note-taking-to-achieve-more-comprehensive-learning-and-increased-productivity)
 ## Videos
 
 - [Knowledge Management by Mukul Khanna (YouTube)](https://www.youtube.com/playlist?list=PLKsk3K4Z-1AVy4Tt-5uTMPCXn7DFQzJ_P)
