@@ -6,6 +6,7 @@
 
 - [Articles](#articles/blogs)
 - [Books](#books)
+- [Examples](#examples)
 - [Software](#software)
 - [Groups](#groups)
 - [Podcasts](#podcasts)
@@ -16,10 +17,10 @@
 
 In this section you will find articles and blogs about the zettelkasten method.
 
-- [Example of how a digital zettelkasten can look like](https://notes.andymatuschak.org/Zettelkasten)
 - [Zettelkasten — How One German Scholar Was So Freakishly Productive](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
 - [Zettelkasten — Wikipedia](https://en.wikipedia.org/wiki/Zettelkasten)
 - [Zettelkasten for remote distributed teams](https://www.taskade.com/blog/build-a-second-brain-remote-distributed-teams)
+- [The Zettelkasten method](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
 
 ## Books
 
@@ -27,6 +28,13 @@ German books abotu the Zettelkasten method.
 
 - [Die Zettelkastenmethode: Kontrolliere dein Wissen](https://www.amazon.de/gp/product/1517734312/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1517734312&linkCode=as2&tag=saschafastde-21)
 - [How to Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y/ref=sr_1_1?dchild=1&keywords=How+to+Take+Smart+Notes&qid=1594983350&sr=8-1)
+
+## Examples
+
+Examples of how a zettelkasten can work on the web.
+
+- [Example of how a digital zettelkasten can look like](https://notes.andymatuschak.org/Zettelkasten)
+- [Jethro's Braindump](https://braindump.jethro.dev)
 
 ## Software
 
