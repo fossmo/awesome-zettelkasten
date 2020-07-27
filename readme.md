@@ -22,6 +22,7 @@ In this section you will find articles and blogs about the zettelkasten method.
 - [Zettelkasten for remote distributed teams](https://www.taskade.com/blog/build-a-second-brain-remote-distributed-teams)
 - [The Zettelkasten method](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
 - [Zettelkasten Method: How to Take Smart Notes for Knowledge Management (Comprehensive article)](https://leananki.com/zettelkasten-method-smart-notes)
+- [The Life-Changing Magic of Zettelkasten](https://www.bryanlee.net/blog/the-life-changing-magic-of-zettelkasten)
 
 ## Books
 
