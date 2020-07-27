@@ -23,7 +23,7 @@ In this section you will find articles and blogs about the zettelkasten method.
 - [The Zettelkasten method](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
 - [Zettelkasten Method: How to Take Smart Notes for Knowledge Management (Comprehensive article)](https://leananki.com/zettelkasten-method-smart-notes)
 - [The Life-Changing Magic of Zettelkasten](https://www.bryanlee.net/blog/the-life-changing-magic-of-zettelkasten)
-
+- [How to take notes insights from ai neuroscience a sociologist and a free app](https://medium.com/swlh/how-to-take-notes-insights-from-ai-neuroscience-a-sociologist-and-a-free-app-34b4be63080a)
 ## Books
 
 German books abotu the Zettelkasten method.
