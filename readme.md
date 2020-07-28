@@ -52,6 +52,7 @@ Software to use with the Zettelkasten method.
 - [Amplenote](https://www.amplenote.com)
 - [Foam](https://github.com/foambubble/foam)
 - [Dendron](https://www.dendron.so)
+- [RoamResearch - A note-taking tool for networked thought](https://roamresearch.com)
 
 ## Groups
 
