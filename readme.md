@@ -48,6 +48,7 @@ Software to use with the Zettelkasten method.
 - [Neuron (CLI)](https://neuron.zettel.page)
 - [Cerveau (Web interface for Neuron)](https://beta.cerveau.app)
 - [Amplenote](https://www.amplenote.com)
+- [Foam](https://github.com/foambubble/foam)
 
 ## Groups
 
