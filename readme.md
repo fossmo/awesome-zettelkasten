@@ -4,14 +4,20 @@
 
 ## Contents
 
-- [Articles](#articles/blogs)
-- [Books](#books)
-- [Examples](#examples)
-- [Software](#software)
-- [Groups](#groups)
-- [Podcasts](#podcasts)
-- [Videos](#videos)
-- [Contribute](#contribute)
+- [Awesome Zettelkasten ![Awesome](https://awesome.re)](#awesome-zettelkasten-)
+  - [Contents](#contents)
+  - [Articles/Blogs](#articlesblogs)
+  - [Books](#books)
+  - [Examples](#examples)
+  - [Software](#software)
+      - [VSCode](#vscode)
+      - [Emacs](#emacs)
+      - [Vim](#vim)
+  - [Groups](#groups)
+  - [Podcasts](#podcasts)
+  - [Videos](#videos)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## Articles/Blogs
 
@@ -53,6 +59,57 @@ Software to use with the Zettelkasten method.
 - [Foam](https://github.com/foambubble/foam)
 - [Dendron](https://www.dendron.so)
 - [RoamResearch - A note-taking tool for networked thought](https://roamresearch.com)
+- [Athens](https://github.com/athensresearch/athens)
+- [Amplenote](https://www.amplenote.com)
+- [Bear](https://bear.app)
+- [ConnectedText](http://www.connectedtext.com/)
+- [Dendron](https://github.com/dendronhq/dendron)
+- [DEVONthink](http://www.devontechnologies.com/products/devonthink/)
+- [Exegesis](https://exegesis.io)
+- [Foam](https://www.producthunt.com/posts/foam)
+- [Logseq](https://logseq.com)
+- [nb](https://github.com/xwmx/nb)
+- [Napkin](https://www.napkin.one)
+- [Neuron](https://neuron.zettel.page/)
+- [Notebag](https://notebag.app/)
+- [nvALT](http://brettterpstra.com/projects/nvalt/)
+- [Obsidian](https://obsidian.md)
+- [Reflect](https://reflect.app)
+- [Remnote](https://www.remnote.io/homepage)
+- [Sublimeless_ZK](https://github.com/renerocksai/sublimeless_zk)
+- [Supernotes](https://supernotes.app)
+- [The Archive](https://zettelkasten.de/the-archive/)
+- [TiddlyWiki](https://tiddlywiki.com) with extra plugins ([TiddlyBlink](https://giffmex.org/gifts/tiddlyblink.html), [TiddlyMap](http://tiddlymap.org))
+- [Zettlr](https://zettlr.com/)
+- [zk](https://github.com/AndrewCopeland/zettelkasten)
+- [zknotes](https://github.com/bburdette/zknotes)
+- [Zkn](http://zettelkasten.danielluedecke.de/en/)
+- [FSNotes](https://fsnot.es)
+
+#### VSCode
+
+- [Markdown Memo](https://marketplace.visualstudio.com/items?itemName=svsool.markdown-memo)
+- [Markdown Notes](https://marketplace.visualstudio.com/items?itemName=maxedmands.vscode-zettel-markdown-notes)
+- [Mzettel](https://marketplace.visualstudio.com/items?itemName=monferrand.mzettel)
+- [Zeta Note](https://marketplace.visualstudio.com/items?itemName=arr.zeta-note)
+- [Zettelkasten](https://marketplace.visualstudio.com/items?itemName=nergal-perm.zettelkasten)
+- [zknotes](https://marketplace.visualstudio.com/items?itemName=sheilacat.zknotes)
+
+#### Emacs
+
+- [md-roam](https://github.com/nobiot/md-roam)
+- [neuron-mode](https://github.com/felko/neuron-mode)
+- [NotDeft](https://github.com/hasu/notdeft)
+- [org-roam](https://www.orgroam.com)
+- [zettel-mode](https://github.com/vifon/zettel-mode)
+- [Zetteldeft](https://www.eliasstorms.net/zetteldeft/)
+
+#### Vim
+
+- [neuron.nvim](https://github.com/oberblastmeister/neuron.nvim)
+- [Notoire](https://github.com/KevinBockelandt/notoire)
+- [vim-zettel](https://github.com/michal-h21/vim-zettel)
+
 
 ## Groups
 
