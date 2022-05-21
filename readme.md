@@ -45,7 +45,7 @@ Examples of how a zettelkasten can work on the web.
 
 - [Example of how a digital zettelkasten can look like](https://notes.andymatuschak.org/Zettelkasten)
 - [Jethro's Braindump](https://braindump.jethro.dev)
-
+- [A curated list of zettelkastens/Second Brains/Digital Gardens](https://github.com/KasperZutterman/Second-Brain)
 ## Software
 
 Software to use with the Zettelkasten method.
