@@ -109,6 +109,7 @@ Software to use with the Zettelkasten method.
 - [neuron.nvim](https://github.com/oberblastmeister/neuron.nvim)
 - [Notoire](https://github.com/KevinBockelandt/notoire)
 - [vim-zettel](https://github.com/michal-h21/vim-zettel)
+- [zettelkasten.nvim](https://github.com/Furkanzmc/zettelkasten.nvim)
 
 
 ## Groups
