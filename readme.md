@@ -79,7 +79,7 @@ Software to use with the Zettelkasten method.
 - [The Archive](https://zettelkasten.de/the-archive/)
 - [TiddlyWiki](https://tiddlywiki.com) with extra plugins ([TiddlyBlink](https://giffmex.org/gifts/tiddlyblink.html), [TiddlyMap](http://tiddlymap.org))
 - [Zettlr](https://zettlr.com/)
-- [zk]([https://github.com/michal-h21/vim-zettel](https://github.com/mickael-menu/zk)) (Neovim [zk-nvim](https://github.com/mickael-menu/zk-nvim), Visual Studio Code [zk-vscode](https://github.com/mickael-menu/zk-vscode))
+- [zk](https://github.com/mickael-menu/zk) with companion plugins (Neovim [zk-nvim](https://github.com/mickael-menu/zk-nvim), Visual Studio Code [zk-vscode](https://github.com/mickael-menu/zk-vscode))
 - [zk](https://github.com/AndrewCopeland/zettelkasten)
 - [zknotes](https://github.com/bburdette/zknotes)
 - [Zkn](http://zettelkasten.danielluedecke.de/en/)
