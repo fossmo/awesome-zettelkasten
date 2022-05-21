@@ -57,13 +57,11 @@ Software to use with the Zettelkasten method.
 - [Cerveau (Web interface for Neuron)](https://beta.cerveau.app)
 - [Amplenote](https://www.amplenote.com)
 - [Foam](https://github.com/foambubble/foam)
-- [Dendron](https://www.dendron.so)
 - [RoamResearch - A note-taking tool for networked thought](https://roamresearch.com)
 - [Athens](https://github.com/athensresearch/athens)
 - [Amplenote](https://www.amplenote.com)
 - [Bear](https://bear.app)
 - [ConnectedText](http://www.connectedtext.com/)
-- [Dendron](https://github.com/dendronhq/dendron)
 - [DEVONthink](http://www.devontechnologies.com/products/devonthink/)
 - [Exegesis](https://exegesis.io)
 - [Foam](https://www.producthunt.com/posts/foam)
@@ -88,6 +86,7 @@ Software to use with the Zettelkasten method.
 
 #### VSCode
 
+- [Dendron](https://www.dendron.so) - [Repo](https://github.com/dendronhq/dendron)
 - [Markdown Memo](https://marketplace.visualstudio.com/items?itemName=svsool.markdown-memo)
 - [Markdown Notes](https://marketplace.visualstudio.com/items?itemName=maxedmands.vscode-zettel-markdown-notes)
 - [Mzettel](https://marketplace.visualstudio.com/items?itemName=monferrand.mzettel)
